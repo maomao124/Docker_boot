@@ -1,0 +1,56 @@
+2022-06-17 23:03:59.581  INFO 9548 --- [main] mao.docker_boot.DockerBootApplication    : Starting DockerBootApplication using Java 16.0.2 on mao with PID 9548 (H:\程序\大三下期\Docker_boot\target\classes started by mao in H:\程序\大三下期\Docker_boot)
+2022-06-17 23:03:59.583 DEBUG 9548 --- [main] mao.docker_boot.DockerBootApplication    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-17 23:03:59.584  INFO 9548 --- [main] mao.docker_boot.DockerBootApplication    : The following 1 profile is active: "dev"
+2022-06-17 23:04:00.261  INFO 9548 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2022-06-17 23:04:00.270  INFO 9548 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-17 23:04:00.271  INFO 9548 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-17 23:04:00.352  INFO 9548 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-17 23:04:00.353  INFO 9548 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 722 ms
+2022-06-17 23:04:00.610  INFO 9548 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-17 23:04:00.620  INFO 9548 --- [main] mao.docker_boot.DockerBootApplication    : Started DockerBootApplication in 1.476 seconds (JVM running for 2.176)
+2022-06-17 23:04:19.708  INFO 9548 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-17 23:04:19.708  INFO 9548 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-17 23:04:19.708  INFO 9548 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-06-17 23:04:55.519  INFO 16872 --- [main] mao.docker_boot.DockerBootApplication    : Starting DockerBootApplication using Java 16.0.2 on mao with PID 16872 (H:\程序\大三下期\Docker_boot\target\classes started by mao in H:\程序\大三下期\Docker_boot)
+2022-06-17 23:04:55.521 DEBUG 16872 --- [main] mao.docker_boot.DockerBootApplication    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-17 23:04:55.521  INFO 16872 --- [main] mao.docker_boot.DockerBootApplication    : The following 1 profile is active: "dev"
+2022-06-17 23:04:56.115  INFO 16872 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2022-06-17 23:04:56.123  INFO 16872 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-17 23:04:56.123  INFO 16872 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-17 23:04:56.192  INFO 16872 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-17 23:04:56.192  INFO 16872 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 629 ms
+2022-06-17 23:04:56.421  INFO 16872 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-17 23:04:56.430  INFO 16872 --- [main] mao.docker_boot.DockerBootApplication    : Started DockerBootApplication in 1.217 seconds (JVM running for 1.656)
+2022-06-17 23:05:10.636  INFO 16872 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-17 23:05:10.636  INFO 16872 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-17 23:05:10.636  INFO 16872 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-06-17 23:05:42.461  INFO 6684 --- [main] mao.docker_boot.DockerBootApplication    : Starting DockerBootApplication using Java 16.0.2 on mao with PID 6684 (H:\程序\大三下期\Docker_boot\target\classes started by mao in H:\程序\大三下期\Docker_boot)
+2022-06-17 23:05:42.463 DEBUG 6684 --- [main] mao.docker_boot.DockerBootApplication    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-17 23:05:42.463  INFO 6684 --- [main] mao.docker_boot.DockerBootApplication    : The following 1 profile is active: "dev"
+2022-06-17 23:05:43.034  INFO 6684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2022-06-17 23:05:43.040  INFO 6684 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-17 23:05:43.041  INFO 6684 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-17 23:05:43.108  INFO 6684 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-17 23:05:43.108  INFO 6684 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 609 ms
+2022-06-17 23:05:43.337  INFO 6684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-17 23:05:43.346  INFO 6684 --- [main] mao.docker_boot.DockerBootApplication    : Started DockerBootApplication in 1.208 seconds (JVM running for 1.635)
+2022-06-17 23:05:48.472  INFO 6684 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-17 23:05:48.472  INFO 6684 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-17 23:05:48.472  INFO 6684 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-06-17 23:07:20.341  INFO 19932 --- [main] mao.docker_boot.DockerBootApplication    : Starting DockerBootApplication using Java 16.0.2 on mao with PID 19932 (H:\程序\大三下期\Docker_boot\target\classes started by mao in H:\程序\大三下期\Docker_boot)
+2022-06-17 23:07:20.343 DEBUG 19932 --- [main] mao.docker_boot.DockerBootApplication    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-17 23:07:20.344  INFO 19932 --- [main] mao.docker_boot.DockerBootApplication    : The following 1 profile is active: "dev"
+2022-06-17 23:07:20.922  INFO 19932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2022-06-17 23:07:20.929  INFO 19932 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-17 23:07:20.929  INFO 19932 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-17 23:07:20.998  INFO 19932 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-17 23:07:20.999  INFO 19932 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 618 ms
+2022-06-17 23:07:21.227  INFO 19932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-17 23:07:21.236  INFO 19932 --- [main] mao.docker_boot.DockerBootApplication    : Started DockerBootApplication in 1.213 seconds (JVM running for 1.648)
+2022-06-17 23:08:31.347  INFO 19932 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-17 23:08:31.347  INFO 19932 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-17 23:08:31.347  INFO 19932 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-06-17 23:10:10.592  INFO 296 --- [main] m.d.DockerBootApplicationTests           : Starting DockerBootApplicationTests using Java 16.0.2 on mao with PID 296 (started by mao in H:\程序\大三下期\Docker_boot)
+2022-06-17 23:10:10.593 DEBUG 296 --- [main] m.d.DockerBootApplicationTests           : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-17 23:10:10.594  INFO 296 --- [main] m.d.DockerBootApplicationTests           : The following 1 profile is active: "dev"
+2022-06-17 23:10:11.923  INFO 296 --- [main] m.d.DockerBootApplicationTests           : Started DockerBootApplicationTests in 1.696 seconds (JVM running for 2.504)
